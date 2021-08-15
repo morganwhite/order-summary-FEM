@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repository](https://github.com/morganwhite/order-summary-FEM)
-- Live Site URL: [github live page](https://your-live-site-url.com)
+- Live Site URL: [github live page](https://morganwhite.github.io/order-summary-FEM/)
 
 ## My process
 
